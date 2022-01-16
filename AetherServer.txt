@@ -1,0 +1,20 @@
+Attributions for Aether Server.
+https://github.com/AetherLibs/Aether and https://github.com/AetherLibs/AetherDev
+
+Original Aether Client:
+Repo: https://git.farfrom.earth/aero/aether
+Credits: The Aero Team <aero@farfrom.earth> (farfrom.earth)
+License: BSD 3-Clause “New” or “Revised” License (Included in all distributed software as per the license agreement)
+
+Modified Aether Client:
+Repo: https://github.com/FireDiscordBot/Aether** and included in some capacity from https://github.com/FireDiscordBot/bot
+Credits: GamingGeek <geek@gaminggeek.dev> (https://gaminggeek.dev/) and The Aero Team <aero@farfrom.earth> (farfrom.earth)
+License(s): FireDiscordBot/Aether: unknown, FireDiscordBot/bot: GNU Affero General Public License v3.0 (ncluded in all distributed software as per the license agreement)
+
+**: Note: Aether does not have access to the FireDiscordBot/Aether repository. 
+Any parallels between the Aether Server and FireDiscordBot/Aether are purely coincidental.
+
+All other dependencies can either be found in the package.json file and/or a LICENSES.md file in the repository.
+
+
+Aether is a subsidiary of EthanLibs. Copyright (c) 2022 EthanLibs.
